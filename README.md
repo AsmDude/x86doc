@@ -8,7 +8,7 @@ The set is also available online at [https://asmdude.github.io/x86doc/][4].
 ---
 * Updated with Intel's documentation of June 2016
 
-  [1]: https://github.com/asmdude/asm-dude
+  [1]: https://github.com/hjlebbink/asm-dude
   [2]: http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
   [3]: https://github.com/zneak/x86doc
   [4]: https://asmdude.github.io/x86doc/
